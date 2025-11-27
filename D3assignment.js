@@ -8,7 +8,7 @@ function checkNumber(num) {
     }
 }
 
-// Example usage:
+
 let result = checkNumber(5);
 console.log(result);
 
